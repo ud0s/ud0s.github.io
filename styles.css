@@ -1,13 +1,56 @@
 .main {
     display: flex;
     justify-content: center;
+}
+
+.bellepolice {
     font-family: "system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "System Default", sans-serif;
 }
 
-#prenom {
+body {
+    background-color: #3898ec;
+}
+
+#gros {
     font-size: 60px;
 }
 
-#subtext {
+#moyentexte {
     font-size: 30px;
+}
+
+#petitlien {
+    font-size: 20px;
+}
+
+.retour {
+    top: 10px;
+    left: 10px;
+    position: fixed;
+}
+
+.laflexboxdesliens {
+    margin-top: 100px;
+    border: 8px solid black;
+    display: flex;
+    justify-content: space-around;
+    min-height: 258px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#mercigithub {
+    top: 10px;
+    right: 10px;
+    position: fixed;
+}
+#emo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imageliens {
+    height: 128px;
+    width: 128px;
 }
