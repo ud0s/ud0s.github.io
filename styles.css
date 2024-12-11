@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    justify-content: center;
+    font-family: "system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "System Default", sans-serif;
+}
+
+#prenom {
+    font-size: 60px;
+}
+
+#subtext {
+    font-size: 30px;
+}
