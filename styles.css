@@ -1,3 +1,5 @@
+/*C'est style.css ou styles.css?*/
+
 .main {
     display: flex;
     justify-content: center;
@@ -44,6 +46,7 @@ body {
     right: 10px;
     position: fixed;
 }
+
 #emo {
     display: block;
     margin-left: auto;
